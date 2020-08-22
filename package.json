@@ -1,7 +1,7 @@
 {
   "name": "one-yellow-ui",
   "theme": "ui",
-  "version": "1.12.5",
+  "version": "0.0.0",
   "description": "Atom One yellow UI theme",
   "keywords": [
     "dark",
@@ -9,7 +9,7 @@
     "ui"
   ],
   "license": "MIT",
-  "repository": "",
+  "repository": "https://github.com/mohamedsadiq/one-yellow-ui",
   "main": "lib/main",
   "engines": {
     "atom": ">0.40.0"
