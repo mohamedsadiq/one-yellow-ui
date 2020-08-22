@@ -1,12 +1,6 @@
-## One Dark UI theme [![Build Status](https://travis-ci.org/atom/one-dark-ui.svg?branch=master)](https://travis-ci.org/atom/one-dark-ui)
+![One Yellow UI](https://ibb.co/10Z0mxt)
 
-### This package is now a part of the [core Atom repository](https://github.com/atom/atom/tree/master/packages/one-dark-ui), please direct all issues and pull requests there in the future!
-
-A dark UI theme that adapts to most syntax themes.
-
-![One dark UI](https://cloud.githubusercontent.com/assets/378023/26246818/08255b76-3cd6-11e7-9f6d-6ae3e16a89a9.png)
-
-> The font used in the screenshot is [Fira Mono](https://github.com/mozilla/Fira).
+> bulit on top of one Drark (https://github.com/atom/atom/tree/master/packages/one-dark-ui).
 
 
 ### Install
@@ -38,7 +32,4 @@ It's also possible to resize only certain areas by adding the following to your 
 ```
 
 
-### FAQ
 
-__Why do the colors change when I switch Syntax themes?__
-This UI theme uses the same background color as the chosen syntax theme. If that syntax theme has a light background color, it only uses its hue, but otherwise stays dark. This lets you use dark-light combos.
